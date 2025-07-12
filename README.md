@@ -1,5 +1,6 @@
-📊 Data Visualization with Matplotlib
-This project demonstrates various data visualization techniques using Matplotlib in Python. It focuses on exploring and analyzing a dataset containing monthly sales and profit values. A simple interactive GUI is also created using Gradio to allow users to select and view different types of plots.
+#📊 Data Visualization with Matplotlib 
+
+Data Visualization with Matplotlib This project demonstrates various data visualization techniques using Matplotlib in Python. It focuses on exploring and analyzing a dataset containing monthly sales and profit values. A simple interactive GUI is also created using Gradio to allow users to select and view different types of plots.
 
 🧠 Key Concepts Covered
  Line Plot
