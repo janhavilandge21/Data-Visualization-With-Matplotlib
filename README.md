@@ -1,4 +1,4 @@
-#📊Data Visualization With Matplotlib
+# 📊Data Visualization With Matplotlib
 
 Data Visualization with Matplotlib This project demonstrates various data visualization techniques using Matplotlib in Python. It focuses on exploring and analyzing a dataset containing monthly sales and profit values. A simple interactive GUI is also created using Gradio to allow users to select and view different types of plots.
 
@@ -18,12 +18,12 @@ Box Plot
 Interactive Visualization using Gradio
 
 📁 Dataset
-python
-Copy
-Edit
+
 data = {
     "Month": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+    
     "Sales": [10000, 12000, 15000, 13000, 17000, 16000],
+    
     "Profit": [2000, 3000, 4000, 2500, 3500, 3000]
 }
 📌 Visualizations
@@ -49,9 +49,7 @@ Pandas
 Gradio (for GUI)
 
 🚀 How to Run
-bash
-Copy
-Edit
+
 pip install matplotlib pandas gradio
 python your_script_name.py
 The Gradio interface will launch locally at:
